@@ -1,3 +1,7 @@
+.head{
+    background-color: cyan;
+    padding: 8px;
+}
 .content{
     background-color: burlywood;
     margin: 3px;
